@@ -60,6 +60,7 @@ public class Main {
         }
 
         System.out.println(Arrays.toString((directorDao.getAll())));
+        System.out.println(Arrays.toString((directorDao.getAll())));
     }
 }
 
